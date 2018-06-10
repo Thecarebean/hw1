@@ -12,3 +12,5 @@
  а это моя страница вк <http://vk.com/thecarebeann>
 
 ![](https://i.ytimg.com/vi/6q4mLmjDyv4/maxresdefault.jpg "Патрик") 
+
+#### А ещё меня можно найти [здесь](https://www.instagram.com/thecarebean/)
